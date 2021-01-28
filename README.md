@@ -1,4 +1,6 @@
 # MoshiX
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FMoshiX.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FMoshiX?ref=badge_shield)
+
 
 Extensions for Moshi
 
@@ -33,3 +35,6 @@ License
 
 
 [snap]: https://oss.sonatype.org/content/repositories/snapshots/dev/zacsweers/moshix/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FMoshiX.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FMoshiX?ref=badge_large)
